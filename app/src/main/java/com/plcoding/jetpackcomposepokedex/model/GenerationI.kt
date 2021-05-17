@@ -1,6 +1,6 @@
 package com.plcoding.jetpackcomposepokedex.model
 
 data class GenerationI(
-    val red-blue: RedBlue,
+    val redblue: RedBlue,
     val yellow: Yellow
 )
