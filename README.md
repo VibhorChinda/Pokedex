@@ -1,5 +1,5 @@
 # Pokedex App using Jetpack Compose
-A simple pokedex application made using the https://pokeapi.co/ api.
+A simple pokedex application made using the https://pokeapi.co/ api to learn about Jetpack Compose.
 
 ## How is this built?
 This app is 100% written in Kotlin. MVVM architecture is used with Android Architecture Components and Hilt for dependency injection.
@@ -18,4 +18,8 @@ This app is 100% written in Kotlin. MVVM architecture is used with Android Archi
 * **Kodein** - For Dependency Injection.
 * **Navigation** - For simplifyed navigation.
 * **ViewModel** - For managing UI data.
+
+## Resources to refer
+* Official Jetpack Compose Documentation (https://developer.android.com/jetpack/compose/documentation)
+* Philipp Lackner Youtube Channel (https://www.youtube.com/c/PhilippLackner/featured)
 
