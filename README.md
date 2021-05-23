@@ -15,7 +15,7 @@ This app is 100% written in Kotlin. MVVM architecture is used with Android Archi
 ## Components/Library Used
 * **Coil Image** - For loading images.
 * **Gson** - For converting JSON to POJO and vice versa.
-* **Kodein** - For Dependency Injection.
+* **Hilt** - For Dependency Injection.
 * **Navigation** - For simplifyed navigation.
 * **ViewModel** - For managing UI data.
 
