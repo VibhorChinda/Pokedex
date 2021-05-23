@@ -5,6 +5,7 @@ A simple pokedex application made using the https://pokeapi.co/ api.
 This app is 100% written in Kotlin. MVVM architecture is used with Android Architecture Components and Hilt for dependency injection.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/46090233/119260102-e4319f80-bbee-11eb-9e58-114351d31970.png)
 
 ## Features
 * Search a pokemon using **Pokemon name**.
